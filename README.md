@@ -3,7 +3,7 @@ Like PhotoShop Layer panel
 
 Functionality:
 
-1. **Add layer.** To add a layer enter layer's name into the top input field and click the button "Create a new layer". Also you can just click the button "Create a new layer" to add a layer with autonaticaly generated name;
+1. **Add layer.** To add a layer enter layer's name into the top input field and click the button "Create a new layer". Also you can just click the button "Create a new layer" to add a layer with automatically generated name;
 
 2. **Choose a layer.** Just click a layer name;
 

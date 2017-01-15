@@ -7,7 +7,7 @@ Functionality:
 
 2. **Choose a layer.** Just click a layer name;
 
-3. **Rename layer.** Double click onto a layer name. Appear the field to rename, enter a new name and push "Enter" key;
+3. **Rename a layer.** Double click onto a layer name. Appear the field to rename, enter a new name and push "Enter" key;
 
 4. **Remove a layer.** Click on the red cross at the right side of the layer's name;
 

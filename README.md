@@ -5,7 +5,7 @@ Functionality:
 
 1. **Add layer.** To add a layer enter layer's name into the top input field and click the button "Create a new layer". Also you can just click the button "Create a new layer" to add a layer with autonaticaly generated name;
 
-2. **Choose a layer.** Just click layer name;
+2. **Choose a layer.** Just click a layer name;
 
 3. **Rename layer.** Double click onto a layer name. Appear the field to rename, enter a new name and push "Enter" key;
 
